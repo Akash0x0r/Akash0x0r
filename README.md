@@ -124,9 +124,6 @@ Traditional security controls often miss **silent or low-noise changes** that ma
 ✔ Continuous improvement  
 
 ---
-
-for structured, real-world SOC learning.
-
 ---
 
 <p align="center">
