@@ -98,8 +98,11 @@ Traditional security controls often miss **silent or low-noise changes** that ma
 ## 📊 GitHub Activity & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash0x0r&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash0x0r&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash0x0r&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
