@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1C2D&height=150&section=header&text=Cyber%20Security%20Operations&fontSize=28&fontColor=00C2A8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1C2D&height=160&section=header&text=Cyber%20Security%20%7C%20SOC%20Operations&fontSize=28&fontColor=00C2A8&animation=fadeIn" />
 </p>
+
 
 <h1 align="center">Akash Verma</h1>
 
@@ -101,10 +102,6 @@ Traditional security controls often miss **silent or low-noise changes** that ma
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash0x0r&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash0x0r&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 Roles of Interest
@@ -124,6 +121,8 @@ Traditional security controls often miss **silent or low-noise changes** that ma
 ✔ Continuous improvement  
 
 ---
+<!-- FOOTER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1C2D&height=90&section=footer&text=Monitor%20•%20Detect%20•%20Respond%20•%20Improve&fontSize=18&fontColor=00C2A8" />
 </p>
+
