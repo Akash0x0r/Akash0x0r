@@ -107,7 +107,7 @@ Traditional security controls often miss **silent or low-noise changes** that ma
 
 ---
 
-## 🎯 Roles of Interest (UK / EU)
+## 🎯 Roles of Interest
 
 ✔ SOC Analyst L1 / Junior SOC Analyst  
 ✔ Security Operations / Blue Team  
