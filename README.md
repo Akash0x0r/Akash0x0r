@@ -98,11 +98,11 @@ Traditional security controls often miss **silent or low-noise changes** that ma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash0x0r&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash0x0r&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash0x0r&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -124,8 +124,6 @@ Traditional security controls often miss **silent or low-noise changes** that ma
 ✔ Continuous improvement  
 
 ---
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1C2D&height=90&section=footer&text=Monitor%20•%20Detect%20•%20Respond%20•%20Improve&fontSize=18&fontColor=00C2A8" />
 </p>
